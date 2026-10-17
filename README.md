@@ -1,5 +1,5 @@
 
-# Intelligent Data Compression — Adaptive v2
+# Intelligent Data Compression 
 
 
 ### General data
