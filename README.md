@@ -1,11 +1,9 @@
 
 # Intelligent Data Compression — Adaptive v2
 
-## Main change
-The application no longer blindly applies Huffman coding to images.
 
 ### General data
-TXT, CSV, JSON, DOCX, XLSX, PDF, ZIP and other files are processed as raw bytes using:
+TXT, CSV, JSON, DOCX, PDF, and other files are processed as raw bytes using:
 - Frequency analysis
 - Min Heap
 - Greedy Huffman tree construction
